@@ -1,0 +1,22 @@
+.quiz1{
+    background-image: url(https://1.bp.blogspot.com/-2IYcfF5hlQU/UGLGdSQZcSI/AAAAAAAABhQ/jFDKY6GhU9c/s1600/dna-structure.jpg);
+    color: white;
+    font-size: 20px;
+}
+fieldset{
+    border-radius: 2em;
+    text-align: justify;
+}
+.title1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+}
+
+.btn1{
+    border-radius: 10px;
+    width: 100px;
+    cursor: pointer;
+    padding: 10px;
+}
